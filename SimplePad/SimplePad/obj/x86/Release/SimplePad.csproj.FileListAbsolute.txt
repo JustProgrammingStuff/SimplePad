@@ -1,0 +1,10 @@
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\bin\x86\Release\SimplePad.exe.config
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\bin\x86\Release\SimplePad.exe
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\bin\x86\Release\SimplePad.pdb
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.Form1.resources
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.Properties.Resources.resources
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.exe
+C:\Users\Thomas\source\repos\SimplePad\SimplePad\obj\x86\Release\SimplePad.pdb
